@@ -1,0 +1,2220 @@
+{
+  "hello": [
+    {
+      "top": [
+        {
+          "title": "热门推荐",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "手机数码",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "家用电器",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "电脑办公",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "计生情趣",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "美妆护肤",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "个人清洁",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "汽车生活",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "男装",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "男鞋",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "女装",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "女鞋",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "母婴童装",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "图书影像",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "运动户外",
+          "container": [
+            {
+              "title": "热门分类",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "手机",
+                  "url": "/static/images/sort/title1/sort1.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "耳机",
+                  "url": "/static/images/sort/title1/sort2.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "华为",
+                  "url": "/static/images/sort/title1/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "电饭煲",
+                  "url": "/static/images/sort/title1/sort4.png",
+                  "t": "dfb"
+                },
+                {
+                  "id": "t5",
+                  "title": "电磁炉",
+                  "url": "/static/images/sort/title1/sort5.png",
+                  "t": "dcl"
+                },
+                {
+                  "id": "t6",
+                  "title": "路由器",
+                  "url": "/static/images/sort/title1/sort6.png",
+                  "t": "luy"
+                },
+                {
+                  "id": "t7",
+                  "title": "避孕套",
+                  "url": "/static/images/sort/title1/sort7.png",
+                  "t": "byt"
+                },
+                {
+                  "id": "t8",
+                  "title": "口红",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "kh"
+                },
+                {
+                  "id": "t9",
+                  "title": "吹风机",
+                  "url": "/static/images/sort/title1/sort9.png",
+                  "t": "cfj"
+                },
+                {
+                  "id": "t10",
+                  "title": "三只松鼠",
+                  "url": "/static/images/sort/title1/sort10.png",
+                  "t": "szss"
+                },
+                {
+                  "id": "t11",
+                  "title": "洗衣液",
+                  "url": "/static/images/sort/title1/sort11.png",
+                  "t": "xyy"
+                },
+                {
+                  "id": "t12",
+                  "title": "保温杯",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "bwb"
+                },
+                {
+                  "id": "t13",
+                  "title": "微波炉",
+                  "url": "/static/images/sort/title1/sort8.png",
+                  "t": "wbl"
+                },
+                {
+                  "id": "t14",
+                  "title": "洗发水",
+                  "url": "/static/images/sort/title1/sort12.png",
+                  "t": "xfs"
+                },
+                {
+                  "id": "t15",
+                  "title": "卫生巾",
+                  "url": "/static/images/sort/title1/sort15.png",
+                  "t": "wsj"
+                }
+              ]
+            },
+            {
+              "title": "家电热搜",
+              "ul": [
+                {
+                  "id": "t16",
+                  "title": "冰箱",
+                  "url": "/static/images/sort/title1/sort16.png",
+                  "t": "bx"
+                },
+                {
+                  "id": "t17",
+                  "title": "洗衣机",
+                  "url": "/static/images/sort/title1/sort17.png",
+                  "t": "xyj"
+                },
+                {
+                  "id": "t18",
+                  "title": "电视",
+                  "url": "/static/images/sort/title1/sort18.png",
+                  "t": "ds"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "top": [
+        {
+          "title": "内衣搭配",
+          "container": [
+            {
+              "title": "热门品牌",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "小米",
+                  "url": "/static/images/sort/title2/sort1.png",
+                  "t": "mix"
+                },
+                {
+                  "id": "t2",
+                  "title": "华为",
+                  "url": "/static/images/sort/title2/sort2.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t3",
+                  "title": "荣耀",
+                  "url": "/static/images/sort/title2/sort3.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t4",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t5",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t6",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t7",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                },
+                {
+                  "id": "t8",
+                  "title": "iphone",
+                  "url": "/static/images/sort/title2/sort4.png",
+                  "t": "iphone"
+                },
+                {
+                  "id": "t9",
+                  "title": "vivo",
+                  "url": "/static/images/sort/title2/sort5.png",
+                  "t": "vivo"
+                },
+                {
+                  "id": "t10",
+                  "title": "oppo",
+                  "url": "/static/images/sort/title2/sort6.png",
+                  "t": "oppo"
+                },
+                {
+                  "id": "t11",
+                  "title": "魅族",
+                  "url": "/static/images/sort/title2/sort7.png",
+                  "t": "mz"
+                }
+              ]
+            },
+            {
+              "title": "手机通讯",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "老人机",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "手机",
+                  "url": "/static/images/sort/title2/sort9.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "全面屏手机",
+                  "url": "/static/images/sort/title2/sort10.png",
+                  "t": "huawei"
+                }
+              ]
+            },
+            {
+              "title": "运营商",
+              "ul": [
+                {
+                  "id": "t1",
+                  "title": "合约机",
+                  "url": "/static/images/sort/title2/sort11.png",
+                  "t": "phone"
+                },
+                {
+                  "id": "t2",
+                  "title": "选号卡",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "erji"
+                },
+                {
+                  "id": "t3",
+                  "title": "办套餐",
+                  "url": "/static/images/sort/title2/sort8.png",
+                  "t": "huawei"
+                },
+                {
+                  "id": "t1",
+                  "title": "淘网办",
+                  "url": "/static/images/sort/title2/sort12.png",
+                  "t": "phone"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+@import "../bact";
+
+.ggcs {
+  padding: 10px;
+  width: 100%;
+  overflow: hidden;
+  color: #666;
+
+  .package {
+    .mod_tit_line {
+      border-top: 1px solid #ddd;
+      text-align: center;
+      height: 6px;
+      margin: 16px 0 10px;
+
+      h3 {
+        display: inline-block;
+        font-size: 12px;
+        height: 12px;
+        line-height: 12px;
+        position: relative;
+        top: -11px;
+        font-weight: 400;
+        padding: 0 20px;
+        background: #fff;
+      }
+    }
+
+    .mod_row {
+      font-size: 12px;
+      word-break: break-all;
+    }
+  }
+
+  .packto {
+    .mod_tit_line {
+      border-top: 1px solid #ddd;
+      text-align: center;
+      height: 6px;
+      margin: 16px 0 10px;
+
+      h3 {
+        display: inline-block;
+        font-size: 12px;
+        height: 12px;
+        line-height: 12px;
+        position: relative;
+        top: -11px;
+        font-weight: 400;
+        padding: 0 20px;
+        background: #fff;
+      }
+    }
+
+    .detParam {
+      .param_table {
+        width: 100%;
+        margin-bottom: 10px;
+        border-collapse: collapse;
+        font-size: 12px;
+        border-spacing: 0;
+        line-height: 18px;
+
+        tbody {
+          tr {
+            td, th {
+              padding: 8px;
+              border: 1px solid #dadada;
+              text-align: left;
+            }
+
+            .tdTitle {
+              width: 72px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

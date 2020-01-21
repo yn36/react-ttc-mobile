@@ -1,0 +1,92 @@
+{
+  "img": [
+    {
+      "id": 0,
+      "url": "/static/images/seckill/goods1.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "生鲜",
+      "class": "cyan"
+    },
+    {
+      "id": 1,
+      "url": "/static/images/seckill/goods2.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "orange"
+    },
+    {
+      "id": 2,
+      "url": "/static/images/seckill/goods3.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "秒杀"
+    },
+    {
+      "id": 3,
+      "url": "/static/images/seckill/goods4.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "orange"
+    },
+    {
+      "id": 4,
+      "url": "/static/images/seckill/goods5.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "orange"
+    },
+    {
+      "id": 5,
+      "url": "/static/images/seckill/goods6.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "orange"
+    },
+    {
+      "id": 6,
+      "url": "/static/images/seckill/goods7.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "大牌",
+      "class": "orange"
+    },
+    {
+      "id": 7,
+      "url": "/static/images/seckill/goods1.jpg",
+      "newprice": 188,
+      "oldprice": 200,
+      "isfalse": false,
+      "sum": 1,
+      "kucun": 999,
+      "em": "生鲜",
+      "class": "orange"
+    }
+
+  ]
+}

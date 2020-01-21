@@ -1,0 +1,70 @@
+{
+  "top": [
+    {
+      "id": 1,
+      "title": "小米（MI） Redmi 8A",
+      "biaoqian": [
+        {
+          "obj": "6.22英寸"
+        },
+        {
+          "obj": "4GB运行"
+        },
+        {
+          "obj": "64GB"
+        }
+      ],
+      "price": "699",
+      "pl": "3万",
+      "pll": "97%",
+      "dp": "小米自营官方旗舰店",
+      "url": "/static/images/list/list1.jpg",
+      "geshi": "/static/images/list/ziying.jpg",
+      "t": "xiaomi"
+    },
+    {
+      "id": 2,
+      "title": "一加 OnePlus 7T 90Hz流体屏 骁龙855Plus旗舰 4800万超广角三摄  8GB+256GB 冰际蓝 游戏手机",
+      "biaoqian": [
+        {
+          "obj": "6.35英寸"
+        },
+        {
+          "obj": "8GB运行"
+        },
+        {
+          "obj": "256GB"
+        }
+      ],
+      "price": "3199",
+      "pl": "2万",
+      "pll": "97%",
+      "dp": "一加手机自营官方旗舰店",
+      "url": "/static/images/list/list2.jpg",
+      "geshi": "/static/images/list/ziying.jpg",
+      "t": "yijia"
+    },
+    {
+      "id": 3,
+      "title": "【超级爆品】一加 OnePlus 7T Pro 2K+90Hz流体屏 骁龙855Plus旗舰 4800万超广角 8GB+256GB 海月蓝 游戏手机",
+      "biaoqian": [
+        {
+          "obj": "6.7英寸"
+        },
+        {
+          "obj": "8GB运行"
+        },
+        {
+          "obj": "64GB"
+        }
+      ],
+      "price": "4599",
+      "pl": "9782",
+      "pll": "90%",
+      "dp": "一加自营官方旗舰店",
+      "url": "/static/images/list/list3.jpg",
+      "geshi": "/static/images/list/ziying.jpg",
+      "t": "yijia"
+    }
+  ]
+}

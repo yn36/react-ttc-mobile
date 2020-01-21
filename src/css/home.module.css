@@ -1,0 +1,441 @@
+:global(*) {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+:global(html,body) {
+  font-size: 16px;
+  touch-action: none;
+  width: 100%;
+  height: 100% !important; }
+
+ul, li, ol {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+.topsearch {
+  box-sizing: border-box;
+  position: fixed;
+  height: 2.8125rem;
+  width: 100%;
+  padding-left: 3.75rem;
+  padding-right: 3.75rem;
+  overflow: hidden;
+  z-index: 50;
+  background: transparent;
+  transition: all .6s; }
+  .topsearch .header_sort {
+    position: absolute;
+    left: 1.125rem;
+    top: 0.4375rem;
+    width: 1.5625rem;
+    height: 2.1875rem;
+    background: url(/public/static/images/home/sort2.svg) no-repeat;
+    background-size: 1.8125rem 2.0625rem; }
+  .topsearch .header_searchico {
+    display: inline-block;
+    position: absolute;
+    right: 4.125rem;
+    top: 0.9375rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    background: url("/public/static/images/home/search.svg") no-repeat;
+    background-size: 1rem 1rem; }
+  .topsearch .header_search {
+    box-sizing: border-box;
+    padding-left: 0.625rem;
+    width: 100%;
+    line-height: 2.1875rem;
+    margin-top: 0.3125rem;
+    border-radius: 1.5625rem;
+    background: rgba(255, 255, 255, 0.9);
+    font-size: 0.875rem;
+    color: #999;
+    outline: none;
+    border: none; }
+  .topsearch .header_login {
+    position: absolute;
+    right: 0.875rem;
+    top: 0.8125rem;
+    font-size: 1rem;
+    color: #fff; }
+
+.topbar {
+  box-sizing: border-box;
+  height: 2.8125rem;
+  width: 100%;
+  padding-left: 3.75rem;
+  padding-right: 3.75rem;
+  overflow: hidden;
+  z-index: 50; }
+  .topbar .header_sort {
+    position: absolute;
+    left: 0.175rem;
+    top: 0.25rem;
+    width: 1.5625rem;
+    height: 2.1875rem;
+    background-size: 2.5rem 2.5rem; }
+  .topbar .header_searchico {
+    display: inline-block;
+    position: absolute;
+    right: 4.125rem;
+    top: 0.9375rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    background: url("/public/static/images/home/search.svg") no-repeat;
+    background-size: 1rem 1rem; }
+  .topbar .header_search {
+    box-sizing: border-box;
+    padding-left: 0.625rem;
+    width: 100%;
+    line-height: 2rem;
+    margin-top: 0.3125rem;
+    border-radius: 1.5625rem;
+    background: rgba(255, 255, 255, 0.9);
+    font-size: 0.875rem;
+    color: #999;
+    outline: none;
+    border: 1px #eee solid; }
+  .topbar .header_login {
+    position: absolute;
+    right: 0.875rem;
+    top: 0.8125rem;
+    font-size: 1rem; }
+
+:global(.am-popover.am-popover-placement-bottomRight) {
+  color: currentcolor;
+  left: 257px;
+  top: 52px !important;
+  position: absolute;
+  z-index: 1999; }
+  :global(.am-popover.am-popover-placement-bottomRight) :global(.am-popover-content) :global(.am-popover-arrow) {
+    background: rgba(0, 0, 0, 0.7); }
+
+.jsbannerbox {
+  padding: 3.125rem 0.75rem 0 0.75rem;
+  background: #e4308d; }
+  .jsbannerbox .jsbanner {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.625rem; }
+    .jsbannerbox .jsbanner :global(.am-carousel) {
+      width: 1000%;
+      overflow: hidden; }
+      .jsbannerbox .jsbanner :global(.am-carousel) :global(.slider-frame) ul:global(.slider-list) {
+        height: 10.4375rem; }
+        .jsbannerbox .jsbanner :global(.am-carousel) :global(.slider-frame) ul:global(.slider-list) li {
+          height: 11.25rem;
+          float: left;
+          width: 10%; }
+          .jsbannerbox .jsbanner :global(.am-carousel) :global(.slider-frame) ul:global(.slider-list) li a {
+            display: block;
+            width: 100%;
+            height: 11.25rem; }
+            .jsbannerbox .jsbanner :global(.am-carousel) :global(.slider-frame) ul:global(.slider-list) li a img {
+              width: 100%; }
+    .jsbannerbox .jsbanner .bannerindex {
+      position: absolute;
+      bottom: 0.625rem;
+      left: 43%;
+      margin-left: -2.8125rem; }
+      .jsbannerbox .jsbanner .bannerindex li {
+        float: left;
+        width: 0.375rem;
+        height: 0.375rem;
+        border-radius: 50%;
+        border: 0.0625rem solid #fff;
+        margin-left: 0.375rem; }
+      .jsbannerbox .jsbanner .bannerindex .current {
+        background: #fff; }
+
+.gridbox {
+  padding: 0.4375rem 0.75rem; }
+  .gridbox .grid {
+    border-radius: 0.625rem;
+    overflow: hidden; }
+    .gridbox .grid :global(.am-grid.am-grid-square) :global(.am-flexbox.am-flexbox-justify-center.am-flexbox-align-stretch) :global(.am-flexbox-item.am-grid-item) :global(.am-grid-item-content) :global(.am-grid-item-inner-content.column-num-5) :global(.am-grid-icon) {
+      width: 40% !important; }
+
+.box {
+  background: #e4308d;
+  padding: 0.25rem 0.75rem; }
+  .box .seckill {
+    box-shadow: 0 0.0625rem 0.0625rem #f2f2f2;
+    background: #fff;
+    border-radius: 0.625rem;
+    overflow: hidden; }
+    .box .seckill .contenttop {
+      width: 100%;
+      height: 2.125rem; }
+      .box .seckill .contenttop .seckleft {
+        float: left;
+        width: 62%; }
+        .box .seckill .contenttop .seckleft .secksp {
+          margin: 0 0.75rem;
+          font-size: 1.125rem; }
+        .box .seckill .contenttop .seckleft strong {
+          display: inline-block;
+          font-size: 0.875rem;
+          margin-top: 0.5rem;
+          padding-left: 0.25rem;
+          color: #333; }
+        .box .seckill .contenttop .seckleft .secktimer {
+          margin-left: 0.375rem;
+          display: inline-block; }
+          .box .seckill .contenttop .seckleft .secktimer .secktime {
+            width: 1.375rem;
+            line-height: 1.125rem;
+            border: 0.0625rem solid #f0f0f0;
+            text-align: center;
+            display: inline-block; }
+          .box .seckill .contenttop .seckleft .secktimer .timespace {
+            font-size: 0.75rem;
+            color: #232326;
+            font-weight: 400; }
+    .box .seckill .contentbot {
+      overflow: hidden; }
+      .box .seckill .contentbot .seckul {
+        width: 54rem;
+        padding-bottom: 0.625rem;
+        overflow: hidden; }
+        .box .seckill .contentbot .seckul .secklist {
+          box-sizing: border-box;
+          width: 6.75rem;
+          padding: 0 0.6875rem;
+          float: left; }
+          .box .seckill .contentbot .seckul .secklist .goosimg {
+            position: relative; }
+            .box .seckill .contentbot .seckul .secklist .goosimg img {
+              display: block;
+              width: 100%; }
+            .box .seckill .contentbot .seckul .secklist .goosimg span {
+              display: inline-block;
+              font-size: 0.5625rem;
+              height: 0.75rem;
+              line-height: 0.75rem;
+              text-align: center;
+              padding: 0 0.125rem;
+              color: #fff;
+              position: absolute;
+              left: 0.5625rem;
+              bottom: 0;
+              background: #7A44FB; }
+            .box .seckill .contentbot .seckul .secklist .goosimg :global(span.none) {
+              display: none; }
+            .box .seckill .contentbot .seckul .secklist .goosimg :global(span.purple) {
+              background: #7A44FB; }
+            .box .seckill .contentbot .seckul .secklist .goosimg :global(span.orange) {
+              background: orange; }
+            .box .seckill .contentbot .seckul .secklist .goosimg :global(span.red) {
+              background: red; }
+            .box .seckill .contentbot .seckul .secklist .goosimg :global(span.cyan) {
+              background: chartreuse; }
+          .box .seckill .contentbot .seckul .secklist .goosprice span {
+            display: block;
+            text-align: center;
+            margin-top: 0.6875rem; }
+          .box .seckill .contentbot .seckul .secklist .goosprice .now {
+            font-size: 1rem;
+            font-weight: 700;
+            height: 1rem;
+            line-height: 1rem;
+            margin-top: 0.6875rem;
+            color: #f23030; }
+          .box .seckill .contentbot .seckul .secklist .goosprice .old {
+            font-size: 0.75rem;
+            color: #686868;
+            text-decoration: line-through; }
+
+.sup {
+  padding: 0.25rem 0.75rem; }
+  .sup .superday {
+    width: 100%;
+    background: #ffffff;
+    overflow: hidden;
+    border-radius: 0.625rem; }
+    .sup .superday .spimg a {
+      display: block;
+      width: 100%; }
+      .sup .superday .spimg a img {
+        width: 100%; }
+    .sup .superday .spdaj {
+      box-sizing: border-box;
+      overflow: hidden; }
+      .sup .superday .spdaj .area {
+        width: 50%;
+        float: left; }
+        .sup .superday .spdaj .area .text {
+          float: left;
+          padding-left: 6px;
+          box-sizing: border-box;
+          width: 55%; }
+          .sup .superday .spdaj .area .text h3 {
+            font-size: 16px;
+            line-height: 22px;
+            font-weight: bold; }
+          .sup .superday .spdaj .area .text p {
+            color: #686868;
+            font-size: 11px;
+            line-height: 15px;
+            margin-top: 3px; }
+        .sup .superday .spdaj .area .textimg {
+          float: left;
+          width: 45%; }
+          .sup .superday .spdaj .area .textimg a {
+            display: block;
+            width: 100%; }
+            .sup .superday .spdaj .area .textimg a img {
+              display: inline-block;
+              width: 100%;
+              height: 100%;
+              vertical-align: top; }
+
+.floorbox {
+  padding: 0.25rem 0.75rem; }
+  .floorbox .floor {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.625rem; }
+    .floorbox .floor .floortitle {
+      width: 100%;
+      position: relative;
+      overflow: hidden;
+      background: url("/public/static/images/lovelife/floor-tit.png") no-repeat center; }
+      .floorbox .floor .floortitle span {
+        top: 7px;
+        left: 0px;
+        height: 70%;
+        display: block;
+        width: 100%;
+        z-index: 2;
+        text-align: center; }
+        .floorbox .floor .floortitle span img {
+          max-height: 100%;
+          width: 20%; }
+    .floorbox .floor .section {
+      width: 100%;
+      position: relative;
+      overflow: hidden; }
+      .floorbox .floor .section .goodl {
+        box-sizing: border-box;
+        float: left;
+        width: 50%;
+        padding: 5px 0 10px 0;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        border-right: 1px solid rgba(0, 0, 0, 0.1);
+        background: #fff; }
+        .floorbox .floor .section .goodl .goodtext {
+          float: left;
+          padding-left: 6px;
+          box-sizing: border-box;
+          width: 55%; }
+          .floorbox .floor .section .goodl .goodtext h3 {
+            font-size: 16px;
+            line-height: 22px;
+            font-weight: bold; }
+          .floorbox .floor .section .goodl .goodtext p {
+            color: #686868;
+            font-size: 11px;
+            line-height: 15px;
+            margin-top: 3px; }
+        .floorbox .floor .section .goodl .goodtextimg {
+          float: left;
+          width: 45%; }
+          .floorbox .floor .section .goodl .goodtextimg a {
+            display: block;
+            width: 100%; }
+            .floorbox .floor .section .goodl .goodtextimg a img {
+              display: inline-block;
+              width: 100%;
+              height: 100%;
+              vertical-align: top; }
+      .floorbox .floor .section .floorul {
+        width: 100%;
+        overflow: hidden;
+        background: #fff; }
+        .floorbox .floor .section .floorul li {
+          box-sizing: border-box;
+          width: 25%;
+          padding: 7px 7px 5px;
+          float: left; }
+          .floorbox .floor .section .floorul li span {
+            width: 100%;
+            display: block; }
+            .floorbox .floor .section .floorul li span h3 {
+              font-size: 16px;
+              line-height: 22px;
+              font-weight: bold; }
+            .floorbox .floor .section .floorul li span p {
+              color: #686868;
+              font-size: 11px;
+              line-height: 15px;
+              margin-top: 3px; }
+          .floorbox .floor .section .floorul li a {
+            display: block;
+            width: 100%; }
+            .floorbox .floor .section .floorul li a img {
+              width: 100%; }
+
+.listbox {
+  display: block;
+  width: 100%;
+  overflow: hidden; }
+  .listbox .list {
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    width: 50%;
+    overflow: hidden;
+    padding: 2px; }
+    .listbox .list a {
+      display: block;
+      width: 100%;
+      background: #fff; }
+      .listbox .list a .listimg {
+        width: 95%;
+        margin: 0 auto;
+        padding-top: 2px; }
+        .listbox .list a .listimg img {
+          width: 100%; }
+      .listbox .list a .listtitle {
+        box-sizing: border-box;
+        height: 31px;
+        font-size: 13px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        word-break: break-word;
+        color: #232326;
+        margin-top: 5px;
+        line-height: 16px;
+        margin-bottom: 3px;
+        padding: 0 4px; }
+      .listbox .list a .listinfo {
+        overflow: hidden;
+        position: relative;
+        height: 1.625rem;
+        margin: 0.125rem; }
+        .listbox .list a .listinfo .listinfosp {
+          color: #f23030;
+          display: inline-block;
+          padding: 0 5px 0 4px;
+          position: relative;
+          top: 1px;
+          height: 25px;
+          line-height: 25px; }
+          .listbox .list a .listinfo .listinfosp .listpro {
+            font-size: 21px;
+            margin-left: 5px; }
+      .listbox .list a .listci {
+        font-size: 13px;
+        overflow: hidden;
+        position: relative;
+        height: 26px; }
+
+/*# sourceMappingURL=home.css.map */

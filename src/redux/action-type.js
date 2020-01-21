@@ -1,0 +1,6 @@
+export const ADDSHOPPING = 'addshopping'
+export const DELSHOPPING = 'delshopping'
+export const ADDSUM = 'addsum'
+export const DESUM = 'desum'
+export const ISCHECKBOX = 'ischeckbox'
+export const CKEALL = 'ckeall'

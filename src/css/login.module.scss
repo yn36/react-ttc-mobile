@@ -1,0 +1,187 @@
+@import "bact";
+
+.login {
+  width: 100%;
+  background: #fff;
+  height: 100%;
+  overflow: hidden;
+
+  .box {
+    width: 85%;
+    margin: pxTorem(50px) auto;
+
+    .inp {
+      width: 100%;
+      height: 70px;
+      overflow: hidden;
+      position: relative;
+
+      .inpitem {
+        border-bottom: 1px #eee solid;
+        position: relative;
+        display: flex;
+
+        .ck {
+          width: pxTorem(20px);
+          height: pxTorem(20px);
+          background: url("/static/images/home/text.jpg");
+          display: block;
+          position: absolute;
+          top: pxTorem(14px);
+          right: pxTorem(11px);
+          background-size: 100% auto;
+        }
+
+        .yzm {
+          display: inline-block;
+          padding: 0;
+          margin: 0;
+          font-size: 12px;
+          text-align: center;
+          background: transparent;
+          border-radius: 30px;
+          color: #a07941;
+          //border-color: #a07941;
+          border: none;
+        }
+
+        .yzm[disabled] {
+          color: #848689;
+        }
+
+        .inpitemp {
+          line-height: 38px;
+          margin: 0 5px;
+          i{
+            font-style: normal;
+            color: red;
+          }
+        }
+
+        input {
+          line-height: 38px;
+          border: none;
+          padding-left: 10px;
+          float: left;
+          flex: 1;
+        }
+
+        .error {
+          position: absolute;
+          bottom: -23px;
+          left: 4px;
+          color: red;
+          display: none;
+        }
+      }
+    }
+
+    .input {
+      width: 100%;
+      height: 69px;
+      overflow: hidden;
+      position: relative;
+
+      .clear {
+        width: pxTorem(20px);
+        height: pxTorem(20px);
+        background: url('/static/images/home/inputclear.jpg') no-repeat center;
+        position: absolute;
+        top: pxTorem(14px);
+        right: pxTorem(11px);
+        background-size: 100% auto;
+        display: none;
+
+        &:nth-last-of-type(2) {
+          right: pxTorem(36px);
+        }
+      }
+
+      .ck {
+        width: pxTorem(20px);
+        height: pxTorem(20px);
+        background: url("/static/images/home/text.jpg");
+        display: block;
+        position: absolute;
+        top: pxTorem(14px);
+        right: pxTorem(11px);
+        background-size: 100% auto;
+      }
+
+      .inpl {
+        display: block;
+        float: left;
+        width: 15%;
+        line-height: 47px;
+      }
+
+      .inpr {
+        display: none;
+        line-height: 23px;
+        width: 100%;
+        color: red;
+        font-size: 14px;
+
+      }
+
+      input {
+        width: 100%;
+        border: none;
+        line-height: pxTorem(45px);
+        border-bottom: 1px #eee solid;
+        padding-left: 1rem;
+        float: left;
+      }
+    }
+
+    .loginbtn {
+      display: block;
+      width: 100%;
+      line-height: pxTorem(40px);
+      border: none;
+      background-image: linear-gradient(90deg, #fab3b3, #ffbcb3 73%, #ffcaba);
+      margin: pxTorem(13px) auto;
+      border-radius: pxTorem(35px);
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .register {
+      display: block;
+      width: 100%;
+      line-height: pxTorem(40px);
+      border: none;
+      background-image: linear-gradient(90deg, #f10000, #ff2000 73%, #ff4f18);
+      margin: pxTorem(13px) auto;
+      border-radius: pxTorem(35px);
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .yuedu {
+      width: 100%;
+      text-align: center;
+      margin: pxTorem(16px) auto;
+      color: rgba(0, 0, 0, .4);
+      font-size: pxTorem(14px);
+
+      span {
+        a {
+          display: inline-block;
+          margin-left: 2px;
+        }
+      }
+    }
+
+    .wenhao {
+      color: rgba(0, 0, 0, .4);
+      font-size: pxTorem(14px);
+
+      a {
+        color: red;
+        display: inline-block;
+        margin-left: pxTorem(4px);
+      }
+    }
+  }
+}

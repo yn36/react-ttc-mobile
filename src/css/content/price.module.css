@@ -1,0 +1,39 @@
+.top {
+  width: 100%;
+  overflow: hidden;
+  border-bottom: 10px #e8e8ed solid; }
+  .top .price {
+    width: 100%;
+    overflow: hidden;
+    padding: 0.9375rem 0.625rem 0 0.625rem; }
+    .top .price .prtop {
+      color: red;
+      font-weight: 700; }
+      .top .price .prtop span {
+        font-size: 1.875rem; }
+    .top .price .collect {
+      display: inline-block;
+      float: right;
+      width: 36px;
+      text-align: center;
+      height: 100%; }
+      .top .price .collect span {
+        display: block;
+        font-size: 13px;
+        margin-top: 2px;
+        color: #999; }
+  .top .title {
+    padding: 0 0.9375rem 0.625rem; }
+    .top .title i {
+      display: inline-block;
+      width: 29px;
+      margin-top: 4px;
+      margin-right: 8px; }
+      .top .title i img {
+        width: 100%; }
+    .top .title p {
+      display: inline;
+      line-height: 22px;
+      font-weight: 700; }
+
+/*# sourceMappingURL=price.css.map */

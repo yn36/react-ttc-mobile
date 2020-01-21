@@ -1,0 +1,54 @@
+{
+  "goodl": [
+    {
+      "id": 1,
+      "url": "/static/images/lovelife/tel1.jpg",
+      "title": "玩3C",
+      "title2": "华为P10首发"
+    },
+    {
+      "id": 2,
+      "url": "/static/images/lovelife/tel2.jpg",
+      "title": "淘家电",
+      "title2": "30天保价"
+    },
+    {
+      "id": 3,
+      "url": "/static/images/lovelife/tel3.jpg",
+      "title": "淘超市",
+      "title2": "品质好物一元抢"
+    },
+    {
+      "id": 4,
+      "url": "/static/images/lovelife/tel4.jpg",
+      "title": "爱家",
+      "title2": "置物架3件88折"
+    }
+  ],
+  "floorul": [
+    {
+      "id": 1,
+      "url": "/static/images/lovelife/gd1.jpg",
+      "title": "爱宝宝",
+      "title2": "直降低至5折"
+    },
+    {
+      "id": 2,
+      "url": "/static/images/lovelife/gd2.jpg",
+      "title": "爱美丽",
+      "title2": "洗颜专科直降"
+    },
+    {
+      "id": 3,
+      "url": "/static/images/lovelife/gd3.jpg",
+      "title": "爱吃",
+      "title2": "进口满99减50"
+    },
+    {
+      "id": 4,
+      "url": "/static/images/lovelife/gd4.jpg",
+      "title": "爱逛",
+      "title2": "自营买3免1"
+    }
+  ]
+}

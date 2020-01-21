@@ -1,0 +1,141 @@
+@import "bact";
+
+.sortbox {
+  display: block;
+  margin: 0 pxTorem(10px) 0;
+  padding-top: 19px;
+
+  .empty{
+    display: inline-block;
+    width: 40px;
+    font-size: 12px;
+    float: right;
+    text-align: right;
+    color: #848689;
+    background: url("/static/images/sort/empty.png") no-repeat left;
+  }
+
+  h4 {
+    display: inline-block;
+    font-size: pxTorem(14px);
+    color: #333;
+  }
+
+  .hehe {
+    background: red;
+  }
+
+  .sortboxul {
+    background: #fff;
+    margin-top: pxTorem(9px);
+    padding: pxTorem(7px) pxTorem(10px) 0;
+    overflow: hidden;
+
+    .sbul {
+      width: 33%;
+      float: left;
+      box-sizing: border-box;
+      text-align: center;
+
+      .sbulping {
+        display: block;
+        width: 100%;
+        z-index: 99;
+
+        img {
+          width: pxTorem(70px);
+          height: pxTorem(70px);
+          border: 0;
+        }
+
+        span {
+          font-size: pxTorem(12px);
+          line-height: pxTorem(25px);
+          width: 70%;
+          z-index: 2;
+          color: #333;
+          text-decoration: none;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 1;
+          margin: 0 auto pxTorem(10px);
+        }
+      }
+    }
+  }
+}
+
+
+.sortnav {
+  width: 100%;
+  //overflow: hidden;
+  height: 100%;
+
+  :global(.am-navbar.am-navbar-light) {
+    background-color: #fff;
+    //position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+  }
+
+
+}
+
+
+// xxk
+.xxkbox {
+  width: 100%;
+  height: pxTorem(572px);
+
+  .letbox {
+    width: pxTorem(100px);
+    background: #f8f8f8;
+    float: left;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+
+    ul {
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+
+      li {
+        width: 100%;
+        line-height: pxTorem(48px);
+        text-align: center;
+        font-size: pxTorem(14px);
+        color: #333;
+      }
+
+      :global(.current ) {
+        color: red;
+        background: #fff;
+      }
+    }
+  }
+
+  .rigbox {
+    overflow: hidden;
+    height: 100%;
+    background: #fff;
+    position: relative;
+
+    .rigdiv {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+
+      .wrigbox {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+  }
+}

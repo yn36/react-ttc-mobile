@@ -1,0 +1,130 @@
+@import "bact";
+
+.myinfo {
+  .accountArea {
+    background: #fff;
+    position: relative;
+    padding: 12px 10px 0;
+    margin-bottom: 15px;
+
+    span {
+      color: #333;
+      font-size: 16px;
+    }
+
+    .ca {
+      position: relative;
+      border-radius: 10px;
+      min-height: 75px;
+      margin-top: 10px;
+      padding: 15px 15px 20px;
+      box-sizing: border-box;
+      overflow: hidden;
+      font-size: 12px;
+      background: #fff9f9;
+      border: 1px solid #e93b3d;
+      height: 85px;
+
+      .catio {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 1px 10px;
+        background-color: #ffe4e4;
+        color: #e2231a;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+      }
+
+      .cainfo {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        align-items: center;
+        width: -webkit-calc(100% - 48px);
+        width: calc(100% - 48px);
+        margin-left: 22px;
+
+        img {
+          width: 45px;
+          height: 45px;
+          margin-right: 10px;
+          border-radius: 100%;
+        }
+
+        .user {
+          span {
+            display: block;
+            font-size: 14px;
+            margin-left: 6px;
+            line-height: 24px;
+            color: #333;
+
+            &.userspan {
+            }
+
+            &.usersp {
+              opacity: .7;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .floor {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background: linear-gradient(90deg, #e4308d, #ff7459);
+
+    span {
+      display: block;
+      line-height: 50px;
+      color: wheat;
+    }
+  }
+
+  .ul {
+    position: relative;
+    margin-bottom: 15px;
+    background: #fff;
+
+    .li {
+      a {
+        display: block;
+        position: relative;
+        height: 44px;
+        line-height: 44px;
+        margin-left: 10px;
+        padding-right: 27px;
+        font-size: 16px;
+        color: #333;
+        &::after{
+          content: "";
+          position: absolute;
+          display: inline-block;
+          right: 10px;
+          width: 12px;
+          height: 12px;
+          background-size: 12px;
+          background-image: url('/static/images/home/rig.jpg');
+          top: 50%;
+          -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+        }
+
+        span {
+          font-size: 12px;
+          color: #999;
+          float: right;
+        }
+      }
+    }
+  }
+}

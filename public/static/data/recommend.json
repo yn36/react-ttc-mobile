@@ -1,0 +1,31 @@
+{
+  "recommend": [
+    {
+      "id": 1,
+      "url": "/static/images/content/gecheng/gecheng1.jpg",
+      "sum": 1,
+      "title": "锦巢 床北欧实木床软靠背婚床1.5米单人床1.8米双人大床高箱储物抽屉卧室床XC-308 单床（原木色） 1500*2000 标准床",
+      "pro": 1399,
+      "isfalse": false,
+      "t": "gecheng"
+    },
+    {
+      "id": 2,
+      "url": "/static/images/recommend/list2.jpg",
+      "sum": 1,
+      "title": "欧洛曼帝  欧式沙发 实木沙发 法式古典沙发客厅组合套装家具小户型小奢华美式沙发 蓝色皮沙发 1号色 1+2+3组合",
+      "pro": 17388,
+      "isfalse": false,
+      "t": "ouluo"
+    },
+    {
+      "id": 3,
+      "url": "/static/images/recommend/list3.jpg",
+      "sum": 1,
+      "title": "格臣 现代简约1.8米双人床 时尚北欧极简卧室家具 主卧经济型1.5米板式床带软靠 单床（黑色靠背） 1500*2000",
+      "pro": 1390,
+      "isfalse": false,
+      "t": "gecheng"
+    }
+  ]
+}

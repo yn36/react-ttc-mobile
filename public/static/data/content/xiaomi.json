@@ -1,0 +1,248 @@
+{
+  "bannerimg": [
+    {
+      "url": "/static/images/content/xiaomi/xiaomi1.jpg"
+    },
+    {
+      "url": "/static/images/content/xiaomi/xiaomi2.jpg"
+    },
+    {
+      "url": "/static/images/content/xiaomi/xiaomi3.jpg"
+    },
+    {
+      "url": "/static/images/content/xiaomi/xiaomi4.jpg"
+    },
+    {
+      "url": "/static/images/content/xiaomi/xiaomi5.jpg"
+    },
+    {
+      "url": "/static/images/content/xiaomi/xiaomi6.jpg"
+    }
+  ],
+  "title": [
+    {
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 3GB+32GB 深海蓝 游戏智能老人手机 小米 红米"
+    }
+  ],
+  "ys": [
+    [
+      {
+        "id": 0,
+        "title": "颜色",
+        "xz": [
+          {
+            "title": "深海蓝",
+            "index": 0
+          },
+          {
+            "title": "耀夜黑",
+            "index": 1
+          },
+          {
+            "title": "珊瑚橙",
+            "index": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "title": "版本",
+        "xz": [
+          {
+            "title": "3GB+32GB",
+            "index": 0
+          },
+          {
+            "title": "4GB+64GB",
+            "index": 1
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "id": 2,
+        "title": "购买方式",
+        "xz": [
+          {
+            "title": "官方标配",
+            "index": 0
+          }
+        ]
+      }
+    ]
+  ],
+  "xuanze": {
+    "a000": {
+      "id": "a000",
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 3GB+32GB 深海蓝 游戏智能老人手机 小米 红米",
+      "price": "699",
+      "sku": [
+        "深海蓝",
+        "3GB+32GB",
+        "官方标配"
+      ],
+      "sum": 1,
+      "isfalse": false,
+      "url": "/static/images/content/xiaomi/xiaomi2.jpg",
+      "t": "xiaomi"
+    },
+    "a100": {
+      "id": "a100",
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 3GB+32GB 耀夜黑 游戏智能老人手机 小米 红米",
+      "price": "799",
+      "sku": [
+        "耀夜黑",
+        "3GB+32GB",
+        "官方标配"
+      ],
+      "sum": 1,
+      "isfalse": false,
+      "url": "/static/images/content/xiaomi/xiaomi7.jpg",
+      "t": "xiaomi"
+    },
+    "a200": {
+      "id": "a200",
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 3GB+32GB 珊瑚橙 游戏智能老人手机 小米 红米",
+      "price": "799",
+      "sku": [
+        "珊瑚橙",
+        "3GB+32GB",
+        "官方标配"
+      ],
+      "sum": 1,
+      "isfalse": false,
+      "url": "/static/images/content/xiaomi/xiaomi8.jpg",
+      "t": "xiaomi"
+    },
+    "a010": {
+      "id": "a010",
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 4GB+64GB 深海蓝 游戏智能老人手机 小米 红米",
+      "price": "899",
+      "sku": [
+        "深海蓝",
+        "4GB+64GB",
+        "官方标配"
+      ],
+      "sum": 1,
+      "isfalse": false,
+      "url": "/static/images/content/xiaomi/xiaomi2.jpg",
+      "t": "xiaomi"
+    },
+    "a110": {
+      "id": "a110",
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 4GB+64GB 耀夜黑 游戏智能老人手机 小米 红米",
+      "price": "999",
+      "sku": [
+        "耀夜黑",
+        "4GB+64GB",
+        "官方标配"
+      ],
+      "sum": 1,
+      "isfalse": false,
+      "url": "/static/images/content/xiaomi/xiaomi7.jpg",
+      "t": "xiaomi"
+    },
+    "a210": {
+      "id": "a210",
+      "title": "【新品抢购】Redmi 8A 5000mAh大电量 大字体大音量大内存 骁龙八核处理器 AI人脸解锁 莱茵护眼全面屏 4GB+64GB 珊瑚橙 游戏智能老人手机 小米 红米",
+      "price": "999",
+      "sku": [
+        "珊瑚橙",
+        "4GB+64GB",
+        "官方标配"
+      ],
+      "sum": 1,
+      "isfalse": false,
+      "url": "/static/images/content/xiaomi/xiaomi8.jpg",
+      "t": "xiaomi"
+    }
+  },
+  "detailes": [
+    {
+      "img": "/static/images/detailes/vivo/vivo1.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo2.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo3.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo4.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo5.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo6.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo7.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo8.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo9.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo10.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo11.jpg"
+    },
+    {
+      "img": "/static/images/detailes/vivo/vivo12.jpg"
+    }
+  ],
+  "cansu": {
+    "qd": "主机（内置电池）*1、充电器*1、数据线*1、保护壳*1、取卡针*1、快速入门指南*1、重要信息和保修卡*1",
+    "xh": [
+      {
+        "bh": "商品编号"
+      },
+      {
+        "bh": "52492422692"
+      }
+    ],
+    "cs": [
+      {
+        "th": "基本信息",
+        "tr": [
+          {
+            "td1": "机身长度（mm）",
+            "td2": "162.39"
+          },
+          {
+            "td1": "电池是否可拆卸",
+            "td2": "电池不可拆卸"
+          },
+          {
+            "td1": "充电器",
+            "td2": "5V/2A"
+          }
+        ]
+      },
+      {
+        "th": "主体",
+        "tr": [
+          {
+            "td1": "上市年份",
+            "td2": "2019年"
+          },
+          {
+            "td1": "上市月份",
+            "td2": "10月"
+          },
+          {
+            "td1": "入网型号",
+            "td2": "以官网信息为准"
+          }
+        ]
+      }
+    ]
+  }
+}

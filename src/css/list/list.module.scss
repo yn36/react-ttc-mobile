@@ -1,0 +1,194 @@
+@import "../bact";
+
+.list {
+  width: 100%;
+  height: 100%;
+
+  .topbar {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    transition: all .5s;
+    z-index: 99;
+    background: transparent;
+  }
+
+  .listBox {
+    width: 100%;
+    padding: 3px 4px 0;
+    height: 100%;
+    margin-top: 45px;
+
+    .listboxul {
+      width: 100%;
+      height: 100%;
+      box-sizing: border-box;
+
+
+      .listulli {
+        display: block;
+        width: 50%;
+        overflow: hidden;
+        float: left;
+        background: #fff;
+        border: 4px #f5f5f9 solid;
+        border-radius: 15px;
+
+        .lia {
+          width: 100%;
+          display: block;
+          width: 100%;
+          height: 100%;
+
+          .content {
+            width: 100%;
+            height: 100%;
+
+            .contentimg {
+              width: 100%;
+              padding: 10px;
+
+              img {
+                width: 100%;
+                height: 100%;
+              }
+            }
+
+            .contentfloor {
+              width: 100%;
+              height: 100%;
+              padding: 0 10px 10px 10px;
+
+              .title {
+                width: 100%;
+
+                p {
+                  font-size: 14px;
+                  line-height: 24px;
+                  z-index: 2;
+                  color: #333;
+                  text-decoration: none;
+                  overflow: hidden;
+                  text-overflow: ellipsis;
+                  display: -webkit-box;
+                  -webkit-box-orient: vertical;
+                  -webkit-line-clamp: 1;
+                }
+              }
+
+              .biaoqian {
+                margin: 3px 0 1px;
+                height: 15px;
+                overflow: hidden;
+
+                span {
+                  float: left;
+                  padding: 0 5px;
+                  border-radius: 1px;
+                  font-size: 10px;
+                  height: 15px;
+                  line-height: 15px;
+                  color: #999;
+                  margin-right: 5px;
+                  background-color: #f2f2f7;
+                }
+              }
+
+              .price {
+                width: 100%;
+                margin: 8px 2px 0 0;
+
+                p {
+                  line-height: 30px;
+                  color: #e93b3d;
+
+                  span {
+                    font-size: 21px;
+                    display: inline-block;
+                    margin: 0 3px;
+                    font-weight: 400;
+                  }
+                }
+
+              }
+
+              .mian {
+                font-size: 12px;
+                height: 20px;
+                padding: 5px 0 2px;
+                box-sizing: border-box;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+                line-height: 1.2;
+
+                i {
+                  display: inline-block;
+                  vertical-align: middle;
+                  margin-top: -2px;
+                  margin-right: 5px;
+                  height: 14px;
+
+                  img {
+                    display: block;
+                    height: 100%;
+                  }
+                }
+
+                .comments {
+                  font-size: 12px;
+                  color: #999;
+                  margin-left: 2px;
+
+                  &:nth-last-child(1) {
+                    display: none;
+                  }
+                }
+              }
+
+              .floor {
+                width: 100%;
+
+                span {
+                  position: relative;
+                  display: inline-block;
+                  padding-right: 14px;
+                  line-height: 14px;
+                  max-width: 100%;
+                  box-sizing: border-box;
+                  overflow: hidden;
+                  text-overflow: ellipsis;
+                  white-space: nowrap;
+                  font-size: 13px;
+                  padding-top: 6px;
+                  color: #999;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .bott {
+    position: fixed;
+    right: 10px;
+    z-index: 101;
+    bottom: 40px;
+    width: 34px;
+    height: 34px;
+    background: #fff;
+    border: 2px #eee solid;
+    border-radius: 50%;
+
+    span {
+      width: 100%;
+      height: 100%;
+      display: block;
+      background: url("/static/images/list/qiehuan2.png") no-repeat center;
+      background-size: 18px;
+    }
+  }
+}

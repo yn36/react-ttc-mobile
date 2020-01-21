@@ -1,0 +1,142 @@
+.list {
+  width: 100%;
+  height: 100%; }
+  .list .topbar {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    transition: all .5s;
+    z-index: 99;
+    background: transparent; }
+  .list .listBox {
+    width: 100%;
+    height: 100%;
+    margin-top: 45px; }
+    .list .listBox .listboxul {
+      width: 100%;
+      height: 100%;
+      box-sizing: border-box; }
+      .list .listBox .listboxul .listulli {
+        display: block;
+        position: relative;
+        padding: 5px 0 5px 10px;
+        background-color: #fff;
+        overflow: hidden; }
+        .list .listBox .listboxul .listulli .lia {
+          display: block;
+          width: 100%;
+          height: 100%;
+          overflow: hidden; }
+          .list .listBox .listboxul .listulli .lia .content {
+            width: 100%;
+            height: 100%;
+            overflow: hidden; }
+            .list .listBox .listboxul .listulli .lia .content .contentimg {
+              width: 35%;
+              padding: 1px;
+              float: left;
+              margin-top: 6px; }
+              .list .listBox .listboxul .listulli .lia .content .contentimg img {
+                width: 100%;
+                height: 100%; }
+            .list .listBox .listboxul .listulli .lia .content .contentfloor {
+              width: 65%;
+              height: 100%;
+              float: left;
+              padding: 0 10px 10px 10px;
+              border-bottom: 1px #eee solid; }
+              .list .listBox .listboxul .listulli .lia .content .contentfloor .title {
+                width: 100%;
+                height: 40px; }
+                .list .listBox .listboxul .listulli .lia .content .contentfloor .title p {
+                  font-size: 14px;
+                  line-height: 20px;
+                  z-index: 2;
+                  color: #333;
+                  text-decoration: none;
+                  overflow: hidden;
+                  text-overflow: ellipsis;
+                  display: -webkit-box;
+                  -webkit-box-orient: vertical;
+                  -webkit-line-clamp: 2; }
+              .list .listBox .listboxul .listulli .lia .content .contentfloor .biaoqian {
+                margin: 3px 0 1px;
+                height: 15px;
+                overflow: hidden; }
+                .list .listBox .listboxul .listulli .lia .content .contentfloor .biaoqian span {
+                  float: left;
+                  padding: 0 5px;
+                  border-radius: 1px;
+                  font-size: 10px;
+                  height: 15px;
+                  line-height: 15px;
+                  color: #999;
+                  margin-right: 5px;
+                  background-color: #f2f2f7; }
+              .list .listBox .listboxul .listulli .lia .content .contentfloor .price {
+                width: 100%;
+                margin: 8px 2px 0 0; }
+                .list .listBox .listboxul .listulli .lia .content .contentfloor .price p {
+                  line-height: 30px;
+                  color: #e93b3d; }
+                  .list .listBox .listboxul .listulli .lia .content .contentfloor .price p span {
+                    font-size: 21px;
+                    display: inline-block;
+                    margin: 0 3px;
+                    font-weight: 400; }
+              .list .listBox .listboxul .listulli .lia .content .contentfloor .mian {
+                font-size: 12px;
+                height: 20px;
+                padding: 5px 0 2px;
+                box-sizing: border-box;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                overflow: hidden;
+                line-height: 1.2; }
+                .list .listBox .listboxul .listulli .lia .content .contentfloor .mian i {
+                  display: inline-block;
+                  vertical-align: middle;
+                  margin-top: -2px;
+                  margin-right: 5px;
+                  height: 14px; }
+                  .list .listBox .listboxul .listulli .lia .content .contentfloor .mian i img {
+                    display: block;
+                    height: 100%; }
+                .list .listBox .listboxul .listulli .lia .content .contentfloor .mian .comments {
+                  font-size: 12px;
+                  color: #999;
+                  margin-left: 2px; }
+              .list .listBox .listboxul .listulli .lia .content .contentfloor .floor {
+                width: 100%; }
+                .list .listBox .listboxul .listulli .lia .content .contentfloor .floor span {
+                  position: relative;
+                  display: inline-block;
+                  padding-right: 14px;
+                  line-height: 14px;
+                  max-width: 100%;
+                  box-sizing: border-box;
+                  overflow: hidden;
+                  text-overflow: ellipsis;
+                  white-space: nowrap;
+                  font-size: 13px;
+                  padding-top: 6px;
+                  color: #999; }
+  .list .bott {
+    position: fixed;
+    right: 10px;
+    z-index: 101;
+    bottom: 40px;
+    width: 34px;
+    height: 34px;
+    background: #fff;
+    border: 2px #eee solid;
+    border-radius: 50%; }
+    .list .bott span {
+      width: 100%;
+      height: 100%;
+      display: block;
+      background: url("/public/static/images/list/qiehuan1.png") no-repeat center;
+      background-size: 18px; }
+
+/*# sourceMappingURL=list2.css.map */

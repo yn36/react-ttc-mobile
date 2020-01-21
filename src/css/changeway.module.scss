@@ -1,0 +1,141 @@
+@import "bact";
+
+.box {
+  width: 100%;
+
+  .floor {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    line-height: 46px;
+    text-align: center;
+
+    a {
+      color: #666;
+      font-size: 14px;
+    }
+  }
+
+  .topp {
+    width: 100%;
+    line-height: 46px;
+    font-size: 17px;
+    display: inline-block;
+    font-weight: 500;
+    padding: 10px 20px;
+  }
+
+  .modifylists {
+    .phonemodifylists {
+      padding: 10px 20px;
+
+      .phone {
+        margin: 15px 0;
+        line-height: 50px;
+        width: 100%;
+        overflow: hidden;
+
+        .butsubmit {
+          width: 100%;
+          margin-top: 33px;
+
+          .submit {
+            width: 100%;
+            line-height: 43px;
+            font-size: 18px;
+            border: none;
+            border-radius: 16px;
+            background: #f02b2b;
+            color: #fff;
+          }
+
+          .submit[disabled] {
+            background: #f38a91;
+          }
+        }
+
+        input.phoneyzm {
+          line-height: 40px;
+          width: 50%;
+          padding: 0 10px;
+          border-radius: 10px;
+          border: none;
+        }
+
+        button.yzmbtn {
+          display: inline-block;
+          margin-left: 12px;
+          line-height: 42px;
+          background: #f02b2b;
+          border: none;
+          color: #fff;
+          width: 40%;
+          border-radius: 12px;
+        }
+
+        button.yzmbtn[disabled] {
+          color: #a3a3a3;
+          background: #e4e4e4;
+        }
+
+        .inpdiv {
+          position: relative;
+          margin-top: 18px;
+
+          input.inppwd {
+            width: 100%;
+            line-height: 40px;
+            border-radius: 10px;
+            border: none;
+            padding: 0 30px 0 10px;
+          }
+
+          .inppwdck {
+            width: pxTorem(20px);
+            height: pxTorem(20px);
+            background: url("/static/images/home/text.jpg");
+            display: block;
+            position: absolute;
+            top: pxTorem(14px);
+            right: pxTorem(11px);
+            background-size: 100% auto;
+          }
+        }
+      }
+
+
+    }
+
+    ul {
+
+      li {
+        position: relative;
+        background: #fff;
+        line-height: 45px;
+        margin: 6px 0;
+        padding: 0 15px;
+
+        a {
+          font-size: 16px;
+          color: #000;
+          display: block;
+        }
+
+        &::after {
+          content: "";
+          position: absolute;
+          display: inline-block;
+          right: 10px;
+          width: 20px;
+          height: 22px;
+          background-size: 20px;
+          background-image: url(/static/images/home/rig.jpg);
+          top: 50%;
+          transform: translateY(-50%);
+        }
+      }
+    }
+
+  }
+}
